@@ -14,5 +14,6 @@ public class Test {
         System.out.println("hello git");
         System.out.println("hot-fix edit");
         System.out.println("master edit");
+        System.out.println("conflict hot-fix");
     }
 }
