@@ -16,5 +16,6 @@ public class Test {
         System.out.println("master edit");
         System.out.println("conflict hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
